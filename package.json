@@ -10,6 +10,9 @@
     "auto",
     "config"
   ],
+  "scripts": {
+    "release": "auto shipit"
+  },
   "peerDependencies": {
     "auto": "*"
   },
