@@ -20,6 +20,19 @@
     "auto": "^7.4.3"
   },
   "auto": {
-    "extends": "./config.json"
+    "plugins": [
+      "npm",
+      "released"
+    ],
+    "labels": {
+      "dependencies": {
+        "name": "dependencies",
+        "title": "🔩 Dependency Updates",
+        "description": "The change only effects the dependencies."
+      }
+    },
+    "skipReleaseLabels": [
+      "dependencies"
+    ]
   }
 }
