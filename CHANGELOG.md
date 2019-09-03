@@ -1,3 +1,15 @@
+# v1.0.4 (Tue Sep 03 2019)
+
+#### ⚠️  Pushed to master
+
+- fix configuration (needs to be in package.json to be shared)  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v1.0.3 (Tue Sep 03 2019)
 
 #### ⚠️  Pushed to master
