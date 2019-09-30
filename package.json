@@ -17,7 +17,7 @@
     "auto": "*"
   },
   "devDependencies": {
-    "auto": "7.6.0"
+    "auto": "7.6.2"
   },
   "auto": {
     "plugins": [
