@@ -24,15 +24,12 @@
       "npm",
       "released"
     ],
-    "labels": {
-      "dependencies": {
+    "labels": [
+      {
         "name": "dependencies",
-        "title": "🔩 Dependency Updates",
-        "description": "The change only effects the dependencies."
+        "changelogTitle": "🔩 Dependency Updates",
+        "releaseType": "none"
       }
-    },
-    "skipReleaseLabels": [
-      "dependencies"
     ]
   }
 }
