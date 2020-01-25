@@ -17,22 +17,19 @@
     "auto": "*"
   },
   "devDependencies": {
-    "auto": "7.6.2"
+    "auto": "9.3.1"
   },
   "auto": {
     "plugins": [
       "npm",
       "released"
     ],
-    "labels": {
-      "dependencies": {
+    "labels": [
+      {
         "name": "dependencies",
-        "title": "🔩 Dependency Updates",
-        "description": "The change only effects the dependencies."
+        "changelogTitle": "🔩 Dependency Updates",
+        "releaseType": "none"
       }
-    },
-    "skipReleaseLabels": [
-      "dependencies"
     ]
   }
 }
