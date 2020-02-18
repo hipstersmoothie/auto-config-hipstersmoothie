@@ -1,3 +1,16 @@
+# v3.0.1 (Tue Feb 18 2020)
+
+#### ⚠️  Pushed to master
+
+- Update push.yml  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- test token  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v2.0.0 (Thu Jan 30 2020)
 
 #### 💥  Breaking Change
