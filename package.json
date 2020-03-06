@@ -14,9 +14,10 @@
     "release": "auto shipit"
   },
   "dependencies": {
+    "@auto-it/npm": "^9.16.6",
+    "@auto-it/released": "^9.16.6",
     "@auto-it/all-contributors": "^9.16.6",
-    "@auto-it/first-time-contributor": "^9.16.6",
-    "@auto-it/npm": "^9.16.6"
+    "@auto-it/first-time-contributor": "^9.16.6"
   },
   "peerDependencies": {
     "auto": ">= 9.x"
