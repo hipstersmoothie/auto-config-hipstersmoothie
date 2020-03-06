@@ -1,3 +1,16 @@
+# v3.0.4 (Fri Mar 06 2020)
+
+#### 🐛 Bug Fix
+
+- Update dependency auto to v9.16.6 [#12](https://github.com/hipstersmoothie/auto-config-hipstersmoothie/pull/12) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### Authors: 2
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v3.0.1 (Tue Feb 18 2020)
 
 #### ⚠️  Pushed to master
