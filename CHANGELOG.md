@@ -1,3 +1,20 @@
+# v3.0.5 (Fri Mar 06 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️  Pushed to `master`
+
+- fix build ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- add contribution plugins + breaking minor label ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.4 (Fri Mar 06 2020)
 
 #### 🐛 Bug Fix
