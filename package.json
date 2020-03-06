@@ -13,8 +13,13 @@
   "scripts": {
     "release": "auto shipit"
   },
+  "dependencies": {
+    "@auto-it/all-contributors": "^9.16.6",
+    "@auto-it/first-time-contributor": "^9.16.6",
+    "@auto-it/npm": "^9.16.6"
+  },
   "peerDependencies": {
-    "auto": "*"
+    "auto": ">= 9.x"
   },
   "devDependencies": {
     "auto": "9.16.6"
@@ -22,11 +27,19 @@
   "auto": {
     "plugins": [
       "npm",
-      "released"
+      "released",
+      "first-time-contributor",
+      "all-contributors",
     ],
     "labels": [
       {
-        "name": "dependencies",
+        "name": "breaking-minor",
+        "description": "Major version zero (0.y.z) is for initial development. Anything MAY change at any time.",
+        "changelogTitle": "🔨 Breaking Minor Change",
+        "releaseType": "minor"
+      },
+      {
+        "name": "dependency-update",
         "changelogTitle": "🔩 Dependency Updates",
         "releaseType": "none"
       }
