@@ -1,3 +1,24 @@
+# v3.0.16 (Mon Mar 09 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️  Pushed to `master`
+
+- try this 14 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try this 13 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try this 12 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try this 11 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try this 10 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try this 9 ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.14 (Mon Mar 09 2020)
 
 :tada: This release contains work from a new contributor! :tada:
