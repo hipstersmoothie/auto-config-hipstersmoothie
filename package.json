@@ -14,17 +14,14 @@
     "release": "auto shipit"
   },
   "dependencies": {
-    "@auto-it/all-contributors": "^9.16.6",
-    "@auto-it/first-time-contributor": "^9.16.6",
-    "@auto-it/npm": "^9.16.6",
-    "@auto-it/released": "^9.16.6",
+    "@auto-canary/all-contributors": "9.19.3-canary.b6cdc759.0",
+    "@auto-canary/first-time-contributor": "9.19.3-canary.b6cdc759.0",
+    "@auto-canary/npm": "9.19.3-canary.b6cdc759.0",
+    "@auto-canary/released": "9.19.3-canary.b6cdc759.0",
     "all-contributors-cli": "^6.14.0"
   },
-  "peerDependencies": {
-    "auto": ">= 9.x"
-  },
   "devDependencies": {
-    "auto": "9.19.2"
+    "@auto-canary/auto": "9.19.3-canary.b6cdc759.0"
   },
   "auto": {
     "plugins": [
