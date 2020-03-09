@@ -1,3 +1,20 @@
+# v3.0.8 (Mon Mar 09 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Update dependency auto to v9.19.2 [#13](https://github.com/hipstersmoothie/auto-config-hipstersmoothie/pull/13) ([@renovate-bot](https://github.com/renovate-bot) [@renovate[bot]](https://github.com/renovate[bot]))
+
+#### Authors: 2
+
+- [@renovate[bot]](https://github.com/renovate[bot])
+- WhiteSource Renovate ([@renovate-bot](https://github.com/renovate-bot))
+
+---
+
 # v3.0.7 (Sat Mar 07 2020)
 
 :tada: This release contains work from a new contributor! :tada:
