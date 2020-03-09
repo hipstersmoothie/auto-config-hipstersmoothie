@@ -1,3 +1,19 @@
+# v3.0.9 (Mon Mar 09 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️  Pushed to `master`
+
+- Update push.yml ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.8 (Mon Mar 09 2020)
 
 :tada: This release contains work from a new contributor! :tada:
