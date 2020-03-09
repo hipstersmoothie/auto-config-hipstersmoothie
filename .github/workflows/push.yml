@@ -8,13 +8,16 @@ jobs:
     if: "!contains(github.event.head_commit.message, 'ci skip') && !contains(github.event.head_commit.message, 'skip ci')"
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          git fetch --prune --unshallow
+        with: 
+          fetch-depth: 0
+
+      - run: git fetch --prune --unshallow
           
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+
       - name: Create Release
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
