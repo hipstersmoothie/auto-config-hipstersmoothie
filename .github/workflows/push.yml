@@ -9,13 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Prepare repository
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git checkout "${GITHUB_REF:11}" --
-          git fetch origin --tags
-          
       - name: Use Node.js 12.x
         uses: actions/setup-node@v1
         with:
