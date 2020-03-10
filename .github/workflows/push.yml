@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Prepare repository
-        run: git fetch --unshallow --prune
+        run: git fetch --unshallow --prune --tags
         
       - name: Unset header
         run: git config --local --unset http.https://github.com/.extraheader
