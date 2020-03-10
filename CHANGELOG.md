@@ -1,3 +1,20 @@
+# v3.0.23 (Tue Mar 10 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️  Pushed to `master`
+
+- test unshallow prune tags ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- test with prune ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.22 (Tue Mar 10 2020)
 
 :tada: This release contains work from a new contributor! :tada:
