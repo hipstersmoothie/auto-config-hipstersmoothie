@@ -1,3 +1,20 @@
+# v3.0.22 (Tue Mar 10 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### ⚠️  Pushed to `master`
+
+- test change ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- try unshallow again ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.20 (Mon Mar 09 2020)
 
 :tada: This release contains work from a new contributor! :tada:
