@@ -1,3 +1,19 @@
+# v3.0.24 (Wed May 20 2020)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie)), for all your work!
+
+#### 🐛 Bug Fix
+
+- update auto [#14](https://github.com/hipstersmoothie/auto-config-hipstersmoothie/pull/14) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.23 (Tue Mar 10 2020)
 
 :tada: This release contains work from a new contributor! :tada:
