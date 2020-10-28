@@ -14,7 +14,7 @@
     "release": "auto shipit"
   },
   "dependencies": {
-    "@auto-it/all-contributors": "9.34.1",
+    "@auto-it/all-contributors": "9.61.0",
     "@auto-it/first-time-contributor": "9.34.1",
     "@auto-it/npm": "9.34.1",
     "@auto-it/released": "9.34.1",
