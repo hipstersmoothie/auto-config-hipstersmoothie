@@ -1,6 +1,6 @@
 {
   "name": "auto-config-hipstersmoothie",
-  "version": "3.0.24",
+  "version": "4.0.0",
   "description": "hipstersmoothie's auto configuration",
   "main": "config.json",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
