@@ -1,3 +1,15 @@
+# v4.0.0 (Fri Nov 06 2020)
+
+#### 💥 Breaking Change
+
+- upgrade to auto@v10 + add pr-body-labels plugin [#20](https://github.com/hipstersmoothie/auto-config-hipstersmoothie/pull/20) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.0.24 (Wed May 20 2020)
 
 :tada: This release contains work from a new contributor! :tada:
