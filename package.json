@@ -14,18 +14,22 @@
     "release": "auto shipit"
   },
   "dependencies": {
-    "@auto-it/all-contributors": "9.34.1",
-    "@auto-it/first-time-contributor": "9.34.1",
-    "@auto-it/npm": "9.34.1",
-    "@auto-it/released": "9.34.1",
-    "all-contributors-cli": "^6.14.0"
+    "@auto-it/all-contributors": "^10.2.3",
+    "@auto-it/first-time-contributor": "^10.2.3",
+    "@auto-it/npm": "^10.2.3",
+    "@auto-it/pr-body-labels": "^10.2.3",
+    "@auto-it/released": "^10.2.3"
   },
   "devDependencies": {
-    "auto": "9.34.1"
+    "auto": "^10.2.3"
+  },
+  "peerDependencies": {
+    "auto": ">= 10.x"
   },
   "auto": {
     "plugins": [
       "npm",
+      "pr-body-labels",
       "released",
       "first-time-contributor",
       "all-contributors"
