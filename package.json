@@ -21,7 +21,7 @@
     "@auto-it/released": "^10.2.3"
   },
   "devDependencies": {
-    "auto": "^10.2.3"
+    "auto": "10.2.3"
   },
   "peerDependencies": {
     "auto": ">= 10.x"
