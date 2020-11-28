@@ -473,7 +473,7 @@ author-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/author-regex/-/author-regex-1.0.0.tgz#d08885be6b9bbf9439fe087c76287245f0a81450"
   integrity sha1-0IiFvmubv5Q5/gh8dihyRfCoFFA=
 
-auto@^10.2.3:
+auto@10.2.3:
   version "10.2.3"
   resolved "https://registry.yarnpkg.com/auto/-/auto-10.2.3.tgz#8dbc8a0461d0bcc6b78fde3d972e6a29179676e9"
   integrity sha512-gTD+RZN5hBvZ1afTwXDBrcjJrCBSuHLbVGw8V/1QUFc5lCkghRcntilIxi2KEUPkRO3hSNCbShswW6WQHUFb2w==
