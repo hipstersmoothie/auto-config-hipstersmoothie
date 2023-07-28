@@ -14,7 +14,7 @@
     "release": "auto shipit"
   },
   "dependencies": {
-    "@auto-it/all-contributors": "^10.2.3",
+    "@auto-it/all-contributors": "^11.0.0",
     "@auto-it/first-time-contributor": "^10.2.3",
     "@auto-it/npm": "^10.2.3",
     "@auto-it/pr-body-labels": "^10.2.3",
