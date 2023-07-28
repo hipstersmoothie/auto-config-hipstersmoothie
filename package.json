@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@auto-it/all-contributors": "^10.2.3",
-    "@auto-it/first-time-contributor": "^10.2.3",
+    "@auto-it/first-time-contributor": "^11.0.0",
     "@auto-it/npm": "^10.2.3",
     "@auto-it/pr-body-labels": "^10.2.3",
     "@auto-it/released": "^10.2.3"
